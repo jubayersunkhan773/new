@@ -1,2 +1,2 @@
-# new
-new
+# output
+output
